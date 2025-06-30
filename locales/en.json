@@ -1,0 +1,295 @@
+{
+    "common": {
+      "loading": "Loading...",
+      "error": "Error",
+      "retry": "Retry",
+      "cancel": "Cancel",
+      "save": "Save",
+      "delete": "Delete",
+      "edit": "Edit",
+      "share": "Share",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "close": "Close",
+      "back": "Back",
+      "next": "Next",
+      "skip": "Skip",
+      "getStarted": "Get Started",
+      "signIn": "Sign In",
+      "signUp": "Sign Up",
+      "signOut": "Sign Out",
+      "continueAsGuest": "Continue as Guest"
+    },
+    "navigation": {
+      "home": "Home",
+      "search": "Search",
+      "create": "Create",
+      "favorites": "Favorites",
+      "profile": "Profile"
+    },
+    "auth": {
+      "welcomeBack": "Welcome Back",
+      "createAccount": "Create Account",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "fullName": "Full Name",
+      "profilePicture": "Profile Picture",
+      "chooseAvatar": "Choose Avatar",
+      "changeAvatar": "Change Avatar",
+      "avatarSelected": "Avatar selected",
+      "emailRequired": "Email address is required.",
+      "validEmail": "Please enter a valid email address.",
+      "passwordRequired": "Password is required.",
+      "nameRequired": "Full name is required.",
+      "nameMinLength": "Name must be at least 2 characters.",
+      "passwordMinLength": "Password must be at least 6 characters.",
+      "passwordsMatch": "Passwords do not match.",
+      "signingIn": "Signing In...",
+      "creatingAccount": "Creating Account...",
+      "alreadyHaveAccount": "Already have an account?",
+      "dontHaveAccount": "Don't have an account?",
+      "signInRequired": "Sign In Required",
+      "signInToComment": "Please sign in to post a comment.",
+      "signInToLike": "Please sign in to like comments.",
+      "signInToReply": "Please sign in to reply to comments.",
+      "signInToBookmark": "Please sign in to bookmark posts.",
+      "signInToJoin": "Sign in to join the conversation and share your thoughts!"
+    },
+    "home": {
+      "title": "PromptKaart",
+      "noPrompts": "No prompts found. Be the first to share your creativity!",
+      "realtimeConnected": "Live"
+    },
+    "search": {
+      "title": "Search",
+      "placeholder": "Search prompts, categories, tags...",
+      "discoverPrompts": "Discover Amazing Prompts",
+      "searchThousands": "Search through thousands of creative AI prompts",
+      "noResults": "No Results Found",
+      "trySearchingElse": "Try searching for something else.",
+      "categories": {
+        "all": "All",
+        "trending": "Trending",
+        "recent": "Recent",
+        "personalized": "For You"
+      }
+    },
+    "create": {
+      "title": "Create",
+      "yourPrompt": "Your Prompt",
+      "yourPromptDesc": "Create a detailed prompt with descriptions, instructions, and creative ideas.",
+      "createYourPrompt": "Create Your Prompt",
+      "aiAssistant": "AI Assistant",
+      "aiAssistantDesc": "Get help from AI to generate, improve, and optimize your prompts for better results.",
+      "chatWithAI": "Chat with AI",
+      "smartSuggestions": "Smart Suggestions",
+      "smartSuggestionsDesc": "Discover trending prompts, personalized recommendations, and creative inspiration.",
+      "browseSuggestions": "Browse Suggestions",
+      "proTip": "Pro Tip",
+      "aiCreativityAwaits": "AI-powered creativity awaits",
+      "signInToUnlock": "Sign in to unlock AI features",
+      "useAIAssistant": "Use our AI assistant and smart suggestions to create better prompts faster.",
+      "loginToAccess": "Login to access AI assistance, smart suggestions, and create amazing prompts."
+    },
+    "favorites": {
+      "title": "Favorites",
+      "noFavorites": "No favorites yet",
+      "startExploring": "Start exploring prompts and tap the bookmark icon to save your favorites here.",
+      "favoritePrompts": "{{count}} favorite prompt",
+      "favoritePrompts_plural": "{{count}} favorite prompts",
+      "failedToLoad": "Failed to load favorites",
+      "checkConnection": "Please check your connection and try again."
+    },
+    "profile": {
+      "title": "Profile",
+      "welcome": "Welcome!",
+      "signInToCreate": "Sign in to create prompts, like content, and connect with the community.",
+      "yourActivity": "Your Activity",
+      "detailedActivity": "Detailed Activity",
+      "recentPosts": "Recent Posts",
+      "viewAllPosts": "View All Posts",
+      "showWelcomeAgain": "Show Welcome Again",
+      "onboarding": "Onboarding",
+      "appearance": "Appearance",
+      "language": "Language",
+      "dark": "Dark",
+      "light": "Light",
+      "loadingStats": "Loading stats...",
+      "loadingDetails": "Loading details...",
+      "signOutConfirm": "Are you sure you want to sign out?",
+      "stats": {
+        "posts": "Posts",
+        "likes": "Likes",
+        "shares": "Shares",
+        "bookmarksGiven": "Bookmarks Given",
+        "commentsMade": "Comments Made",
+        "likesGiven": "Likes Given",
+        "totalEngagement": "Total Engagement"
+      }
+    },
+    "prompt": {
+      "details": "Prompt Details",
+      "comments": "Comments",
+      "noComments": "No comments yet. Be the first to share your thoughts!",
+      "writeComment": "Write a comment...",
+      "posting": "Posting...",
+      "post": "Post",
+      "reply": "Reply",
+      "replyTo": "Reply to {{name}}...",
+      "showReplies": "Show {{count}} replies",
+      "showReply": "Show {{count}} reply",
+      "hideReplies": "Hide replies",
+      "viewDetails": "View Details",
+      "bookmarked": "Bookmarked",
+      "bookmark": "Bookmark",
+      "promptNotFound": "Prompt not found",
+      "failedToFetch": "Failed to fetch prompt"
+    },
+    "aiAssistant": {
+      "title": "AI Assistant",
+      "placeholder": "Ask me anything about prompts...",
+      "thinking": "AI is thinking...",
+      "createPost": "Create Post",
+      "welcome": "Hi! I'm your AI prompt assistant. I can help you:\n\n• Generate creative prompts\n• Improve existing prompts\n• Suggest trending topics\n• Optimize for different AI models\n\nWhat would you like to create today?",
+      "suggestions": {
+        "fantasy": "Generate a fantasy prompt",
+        "improve": "Improve my existing prompt",
+        "trending": "What's trending in AI art?",
+        "chatgpt": "Help with ChatGPT prompts"
+      }
+    },
+    "smartSuggestions": {
+      "title": "Smart Suggestions",
+      "loadingSuggestions": "Loading suggestions...",
+      "useThisPrompt": "Use This Prompt",
+      "trending": "TRENDING",
+      "difficulty": {
+        "beginner": "BEGINNER",
+        "intermediate": "INTERMEDIATE",
+        "advanced": "ADVANCED"
+      }
+    },
+    "videoGenerator": {
+      "title": "Video Generator",
+      "description": "Transform your prompts into personalized AI-powered videos",
+      "script": "Video Script",
+      "scriptDescription": "Enter the text you want your AI avatar to speak",
+      "chooseAvatar": "Choose AI Avatar",
+      "avatarDescription": "Select an AI avatar that will present your content",
+      "videoSettings": "Video Settings",
+      "background": "Background",
+      "voiceStability": "Voice Stability",
+      "similarityBoost": "Similarity Boost",
+      "generateVideo": "Generate Video",
+      "generatingVideo": "Generating Video...",
+      "videoReady": "Video Ready!",
+      "generationFailed": "Generation Failed",
+      "play": "Play",
+      "download": "Download",
+      "share": "Share",
+      "loadingAvatars": "Loading AI Avatars...",
+      "noAvatars": "No avatars available",
+      "checkAccount": "Please check your Tavus account"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "noNotifications": "You have no notifications yet.",
+      "justNow": "Just now",
+      "minutesAgo": "{{count}}m ago",
+      "hoursAgo": "{{count}}h ago",
+      "daysAgo": "{{count}}d ago"
+    },
+    "postActivity": {
+      "title": "Post Activity",
+      "totalEngagement": "Total Engagement",
+      "loadingActivity": "Loading activity...",
+      "postNotFound": "Post not found",
+      "ownPostsOnly": "You can only view activity for your own posts.",
+      "goBack": "Go Back",
+      "tabs": {
+        "likes": "Likes",
+        "comments": "Comments",
+        "bookmarks": "Bookmarks"
+      },
+      "actions": {
+        "liked": "Liked",
+        "bookmarked": "Bookmarked"
+      },
+      "empty": {
+        "likes": "No likes yet",
+        "comments": "No comments yet",
+        "bookmarks": "No bookmarks yet"
+      }
+    },
+    "welcome": {
+      "title": "Welcome to PromptKaart",
+      "description": "Your creative companion for generating amazing AI prompts. Discover, create, and share prompts that bring your ideas to life.",
+      "aiPoweredCreativity": "AI-Powered Creativity",
+      "aiDescription": "Access multiple AI models including ChatGPT, Gemini, and Grok. Get the best results for your creative projects.",
+      "shareDiscover": "Share & Discover",
+      "shareDescription": "Join a community of creators. Share your prompts, discover trending ideas, and get inspired by others.",
+      "readyToCreate": "Ready to Create?",
+      "readyDescription": "Start your creative journey today. Generate stunning prompts and bring your imagination to reality."
+    },
+    "aiAssistant": {
+      "title": "AI Assistant",
+      "placeholder": "Ask me anything about prompts...",
+      "thinking": "AI is thinking...",
+      "createPost": "Create Post",
+      "welcome": "Hi! I'm your AI prompt assistant. I can help you:\n\n• Generate creative prompts\n• Improve existing prompts\n• Suggest trending topics\n• Optimize for different AI models\n\nWhat would you like to create today?",
+      "suggestions": {
+        "fantasy": "Generate a fantasy prompt",
+        "improve": "Improve my existing prompt",
+        "trending": "What's trending in AI art?",
+        "chatgpt": "Help with ChatGPT prompts"
+      }
+    },
+    "smartSuggestions": {
+      "title": "Smart Suggestions",
+      "loadingSuggestions": "Loading suggestions...",
+      "useThisPrompt": "Use This Prompt",
+      "trending": "TRENDING"
+    },
+    "categories": {
+      "artDesign": "Art & Design",
+      "fantasy": "Fantasy",
+      "sciFi": "Sci-Fi",
+      "nature": "Nature",
+      "landscape": "Landscape",
+      "general": "General"
+    },
+    "aiSources": {
+      "chatgpt": "CHATGPT",
+      "gemini": "GEMINI",
+      "grok": "GROK",
+      "midjourney": "MIDJOURNEY"
+    },
+    "errors": {
+      "somethingWentWrong": "Something went wrong",
+      "tryAgain": "Please try again later",
+      "networkError": "Network error. Please check your connection.",
+      "unauthorized": "You are not authorized to perform this action.",
+      "notFound": "The requested resource was not found.",
+      "validationError": "Please check your input and try again."
+    },
+    "language": {
+      "selectLanguage": "Select Language",
+      "currentLanguage": "Current Language",
+      "changeLanguage": "Change Language",
+      "languages": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "French",
+        "de": "German",
+        "it": "Italian",
+        "pt": "Portuguese",
+        "ru": "Russian",
+        "ja": "Japanese",
+        "ko": "Korean",
+        "zh": "Chinese",
+        "ar": "Arabic",
+        "hi": "Hindi"
+      }
+    }
+  }

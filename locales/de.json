@@ -1,0 +1,276 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "retry": "Wiederholen",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "share": "Teilen",
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "close": "Schließen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "skip": "Überspringen",
+    "getStarted": "Loslegen",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "signOut": "Abmelden",
+    "continueAsGuest": "Als Gast fortfahren"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "search": "Suchen",
+    "create": "Erstellen",
+    "favorites": "Favoriten",
+    "profile": "Profil"
+  },
+  "auth": {
+    "welcomeBack": "Willkommen zurück",
+    "createAccount": "Konto erstellen",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "fullName": "Vollständiger Name",
+    "profilePicture": "Profilbild",
+    "chooseAvatar": "Avatar wählen",
+    "changeAvatar": "Avatar ändern",
+    "avatarSelected": "Avatar ausgewählt",
+    "emailRequired": "E-Mail-Adresse ist erforderlich.",
+    "validEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "passwordRequired": "Passwort ist erforderlich.",
+    "nameRequired": "Vollständiger Name ist erforderlich.",
+    "nameMinLength": "Der Name muss mindestens 2 Zeichen lang sein.",
+    "passwordMinLength": "Das Passwort muss mindestens 6 Zeichen lang sein.",
+    "passwordsMatch": "Die Passwörter stimmen nicht überein.",
+    "signingIn": "Anmelden...",
+    "creatingAccount": "Konto wird erstellt...",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+    "dontHaveAccount": "Haben Sie noch kein Konto?",
+    "signInRequired": "Anmeldung erforderlich",
+    "signInToComment": "Bitte melden Sie sich an, um einen Kommentar zu posten.",
+    "signInToLike": "Bitte melden Sie sich an, um Kommentare zu liken.",
+    "signInToReply": "Bitte melden Sie sich an, um auf Kommentare zu antworten.",
+    "signInToBookmark": "Bitte melden Sie sich an, um Beiträge zu speichern.",
+    "signInToJoin": "Melden Sie sich an, um an der Unterhaltung teilzunehmen und Ihre Gedanken zu teilen!"
+  },
+  "home": {
+    "title": "PromptKaart",
+    "noPrompts": "Keine Prompts gefunden. Seien Sie der Erste, der seine Kreativität teilt!",
+    "realtimeConnected": "Live"
+  },
+  "search": {
+    "title": "Suchen",
+    "placeholder": "Prompts, Kategorien, Tags suchen...",
+    "discoverPrompts": "Entdecken Sie erstaunliche Prompts",
+    "searchThousands": "Durchsuchen Sie Tausende von kreativen KI-Prompts",
+    "noResults": "Keine Ergebnisse gefunden",
+    "trySearchingElse": "Versuchen Sie, nach etwas anderem zu suchen.",
+    "categories": {
+      "all": "Alle",
+      "trending": "Im Trend",
+      "recent": "Neueste",
+      "personalized": "Für Sie"
+    }
+  },
+  "create": {
+    "title": "Erstellen",
+    "yourPrompt": "Ihr Prompt",
+    "yourPromptDesc": "Erstellen Sie einen detaillierten Prompt mit Beschreibungen, Anweisungen und kreativen Ideen.",
+    "createYourPrompt": "Ihren Prompt erstellen",
+    "aiAssistant": "KI-Assistent",
+    "aiAssistantDesc": "Holen Sie sich Hilfe von der KI, um Ihre Prompts zu generieren, zu verbessern und zu optimieren, um bessere Ergebnisse zu erzielen.",
+    "chatWithAI": "Mit KI chatten",
+    "smartSuggestions": "Intelligente Vorschläge",
+    "smartSuggestionsDesc": "Entdecken Sie trendige Prompts, personalisierte Empfehlungen und kreative Inspiration.",
+    "browseSuggestions": "Vorschläge durchsuchen",
+    "proTip": "Profi-Tipp",
+    "aiCreativityAwaits": "KI-gestützte Kreativität erwartet Sie",
+    "signInToUnlock": "Melden Sie sich an, um KI-Funktionen freizuschalten",
+    "useAIAssistant": "Nutzen Sie unseren KI-Assistenten und intelligente Vorschläge, um bessere Prompts schneller zu erstellen.",
+    "loginToAccess": "Melden Sie sich an, um auf KI-Unterstützung, intelligente Vorschläge zuzugreifen und erstaunliche Prompts zu erstellen."
+  },
+  "favorites": {
+    "title": "Favoriten",
+    "noFavorites": "Noch keine Favoriten",
+    "startExploring": "Beginnen Sie mit dem Erkunden von Prompts und tippen Sie auf das Lesezeichen-Symbol, um Ihre Favoriten hier zu speichern.",
+    "favoritePrompts_one": "{{count}} Lieblings-Prompt",
+    "favoritePrompts_other": "{{count}} Lieblings-Prompts",
+    "failedToLoad": "Favoriten konnten nicht geladen werden",
+    "checkConnection": "Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut."
+  },
+  "profile": {
+    "title": "Profil",
+    "welcome": "Willkommen!",
+    "signInToCreate": "Melden Sie sich an, um Prompts zu erstellen, Inhalte zu liken und sich mit der Community zu verbinden.",
+    "yourActivity": "Ihre Aktivität",
+    "detailedActivity": "Detaillierte Aktivität",
+    "recentPosts": "Neueste Beiträge",
+    "viewAllPosts": "Alle Beiträge anzeigen",
+    "showWelcomeAgain": "Willkommensbildschirm erneut anzeigen",
+    "onboarding": "Einführung",
+    "appearance": "Erscheinungsbild",
+    "language": "Sprache",
+    "dark": "Dunkel",
+    "light": "Hell",
+    "loadingStats": "Statistiken werden geladen...",
+    "loadingDetails": "Details werden geladen...",
+    "signOutConfirm": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+    "stats": {
+      "posts": "Beiträge",
+      "likes": "Likes",
+      "shares": "Geteilt",
+      "bookmarksGiven": "Gesetzte Lesezeichen",
+      "commentsMade": "Erstellte Kommentare",
+      "likesGiven": "Gegebene Likes",
+      "totalEngagement": "Gesamtes Engagement"
+    }
+  },
+  "prompt": {
+    "details": "Prompt-Details",
+    "comments": "Kommentare",
+    "noComments": "Noch keine Kommentare. Seien Sie der Erste, der seine Gedanken teilt!",
+    "writeComment": "Einen Kommentar schreiben...",
+    "posting": "Wird gepostet...",
+    "post": "Posten",
+    "reply": "Antworten",
+    "replyTo": "Antwort an {{name}}...",
+    "showReplies_one": "{{count}} Antwort anzeigen",
+    "showReplies_other": "{{count}} Antworten anzeigen",
+    "hideReplies": "Antworten ausblenden",
+    "viewDetails": "Details anzeigen",
+    "bookmarked": "Gespeichert",
+    "bookmark": "Speichern",
+    "promptNotFound": "Prompt nicht gefunden",
+    "failedToFetch": "Prompt konnte nicht abgerufen werden"
+  },
+  "aiAssistant": {
+    "title": "KI-Assistent",
+    "placeholder": "Fragen Sie mich alles über Prompts...",
+    "thinking": "KI denkt nach...",
+    "createPost": "Beitrag erstellen",
+    "welcome": "Hallo! Ich bin Ihr KI-Prompt-Assistent. Ich kann Ihnen helfen:\n\n• Kreative Prompts zu generieren\n• Bestehende Prompts zu verbessern\n• Trendthemen vorzuschlagen\n• Für verschiedene KI-Modelle zu optimieren\n\nWas möchten Sie heute erstellen?",
+    "suggestions": {
+      "fantasy": "Einen Fantasy-Prompt generieren",
+      "improve": "Meinen bestehenden Prompt verbessern",
+      "trending": "Was ist im Trend bei KI-Kunst?",
+      "chatgpt": "Hilfe bei ChatGPT-Prompts"
+    }
+  },
+  "smartSuggestions": {
+    "title": "Intelligente Vorschläge",
+    "loadingSuggestions": "Vorschläge werden geladen...",
+    "useThisPrompt": "Diesen Prompt verwenden",
+    "trending": "TRENDING",
+    "difficulty": {
+      "beginner": "ANFÄNGER",
+      "intermediate": "MITTEL",
+      "advanced": "FORTGESCHRITTEN"
+    }
+  },
+  "videoGenerator": {
+    "title": "Video-Generator",
+    "description": "Verwandeln Sie Ihre Prompts in personalisierte KI-gestützte Videos",
+    "script": "Video-Skript",
+    "scriptDescription": "Geben Sie den Text ein, den Ihr KI-Avatar sprechen soll",
+    "chooseAvatar": "KI-Avatar wählen",
+    "avatarDescription": "Wählen Sie einen KI-Avatar aus, der Ihre Inhalte präsentiert",
+    "videoSettings": "Videoeinstellungen",
+    "background": "Hintergrund",
+    "voiceStability": "Stimmstabilität",
+    "similarityBoost": "Ähnlichkeits-Boost",
+    "generateVideo": "Video generieren",
+    "generatingVideo": "Video wird generiert...",
+    "videoReady": "Video bereit!",
+    "generationFailed": "Generierung fehlgeschlagen",
+    "play": "Abspielen",
+    "download": "Herunterladen",
+    "share": "Teilen",
+    "loadingAvatars": "KI-Avatare werden geladen...",
+    "noAvatars": "Keine Avatare verfügbar",
+    "checkAccount": "Bitte überprüfen Sie Ihr Tavus-Konto"
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "noNotifications": "Sie haben noch keine Benachrichtigungen.",
+    "justNow": "Gerade eben",
+    "minutesAgo": "vor {{count}} Min.",
+    "hoursAgo": "vor {{count}} Std.",
+    "daysAgo": "vor {{count}} T."
+  },
+  "postActivity": {
+    "title": "Beitragsaktivität",
+    "totalEngagement": "Gesamtes Engagement",
+    "loadingActivity": "Aktivität wird geladen...",
+    "postNotFound": "Beitrag nicht gefunden",
+    "ownPostsOnly": "Sie können nur die Aktivität für Ihre eigenen Beiträge anzeigen.",
+    "goBack": "Zurückgehen",
+    "tabs": {
+      "likes": "Likes",
+      "comments": "Kommentare",
+      "bookmarks": "Lesezeichen"
+    },
+    "actions": {
+      "liked": "Geliked",
+      "bookmarked": "Gespeichert"
+    },
+    "empty": {
+      "likes": "Noch keine Likes",
+      "comments": "Noch keine Kommentare",
+      "bookmarks": "Noch keine Lesezeichen"
+    }
+  },
+  "welcome": {
+    "title": "Willkommen bei PromptKaart",
+    "description": "Ihr kreativer Begleiter zur Erstellung erstaunlicher KI-Prompts. Entdecken, erstellen und teilen Sie Prompts, die Ihre Ideen zum Leben erwecken.",
+    "aiPoweredCreativity": "KI-gestützte Kreativität",
+    "aiDescription": "Greifen Sie auf mehrere KI-Modelle wie ChatGPT, Gemini und Grok zu. Erzielen Sie die besten Ergebnisse für Ihre kreativen Projekte.",
+    "shareDiscover": "Teilen & Entdecken",
+    "shareDescription": "Treten Sie einer Gemeinschaft von Schöpfern bei. Teilen Sie Ihre Prompts, entdecken Sie trendige Ideen und lassen Sie sich von anderen inspirieren.",
+    "readyToCreate": "Bereit zum Erstellen?",
+    "readyDescription": "Starten Sie noch heute Ihre kreative Reise. Generieren Sie atemberaubende Prompts und erwecken Sie Ihre Vorstellungskraft zum Leben."
+  },
+  "categories": {
+    "artDesign": "Kunst & Design",
+    "fantasy": "Fantasie",
+    "sciFi": "Sci-Fi",
+    "nature": "Natur",
+    "landscape": "Landschaft",
+    "general": "Allgemein"
+  },
+  "aiSources": {
+    "chatgpt": "CHATGPT",
+    "gemini": "GEMINI",
+    "grok": "GROK",
+    "midjourney": "MIDJOURNEY"
+  },
+  "errors": {
+    "somethingWentWrong": "Etwas ist schiefgelaufen",
+    "tryAgain": "Bitte versuchen Sie es später erneut",
+    "networkError": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung.",
+    "unauthorized": "Sie sind nicht berechtigt, diese Aktion auszuführen.",
+    "notFound": "Die angeforderte Ressource wurde nicht gefunden.",
+    "validationError": "Bitte überprüfen Sie Ihre Eingabe und versuchen Sie es erneut."
+  },
+  "language": {
+    "selectLanguage": "Sprache auswählen",
+    "currentLanguage": "Aktuelle Sprache",
+    "changeLanguage": "Sprache ändern",
+    "languages": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "French",
+        "de": "German",
+        "it": "Italian",
+        "pt": "Portuguese",
+        "ru": "Russian",
+        "ja": "Japanese",
+        "ko": "Korean",
+        "zh": "Chinese",
+        "ar": "Arabic",
+        "hi": "Hindi"
+      }
+  }
+}

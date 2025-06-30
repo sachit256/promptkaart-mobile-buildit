@@ -1,0 +1,276 @@
+{
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "retry": "إعادة المحاولة",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "share": "مشاركة",
+    "copy": "نسخ",
+    "copied": "تم النسخ!",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "skip": "تخطي",
+    "getStarted": "البدء",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "signOut": "تسجيل الخروج",
+    "continueAsGuest": "المتابعة كضيف"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "search": "البحث",
+    "create": "إنشاء",
+    "favorites": "المفضلة",
+    "profile": "الملف الشخصي"
+  },
+  "auth": {
+    "welcomeBack": "مرحباً بعودتك",
+    "createAccount": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "profilePicture": "صورة الملف الشخصي",
+    "chooseAvatar": "اختر صورة رمزية",
+    "changeAvatar": "تغيير الصورة الرمزية",
+    "avatarSelected": "تم اختيار الصورة الرمزية",
+    "emailRequired": "البريد الإلكتروني مطلوب.",
+    "validEmail": "الرجاء إدخال بريد إلكتروني صحيح.",
+    "passwordRequired": "كلمة المرور مطلوبة.",
+    "nameRequired": "الاسم الكامل مطلوب.",
+    "nameMinLength": "يجب أن يتكون الاسم من حرفين على الأقل.",
+    "passwordMinLength": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.",
+    "passwordsMatch": "كلمتا المرور غير متطابقتين.",
+    "signingIn": "جاري تسجيل الدخول...",
+    "creatingAccount": "جاري إنشاء الحساب...",
+    "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "signInRequired": "تسجيل الدخول مطلوب",
+    "signInToComment": "الرجاء تسجيل الدخول لنشر تعليق.",
+    "signInToLike": "الرجاء تسجيل الدخول للإعجاب بالتعليقات.",
+    "signInToReply": "الرجاء تسجيل الدخول للرد على التعليقات.",
+    "signInToBookmark": "الرجاء تسجيل الدخول لحفظ المنشورات.",
+    "signInToJoin": "سجل الدخول للانضمام إلى المحادثة ومشاركة أفكارك!"
+  },
+  "home": {
+    "title": "PromptKaart",
+    "noPrompts": "لم يتم العثور على أي مطالبات. كن أول من يشارك إبداعك!",
+    "realtimeConnected": "مباشر"
+  },
+  "search": {
+    "title": "البحث",
+    "placeholder": "ابحث في المطالبات، الفئات، العلامات...",
+    "discoverPrompts": "اكتشف مطالبات مذهلة",
+    "searchThousands": "ابحث بين آلاف المطالبات الإبداعية للذكاء الاصطناعي",
+    "noResults": "لم يتم العثور على نتائج",
+    "trySearchingElse": "جرّب البحث عن شيء آخر.",
+    "categories": {
+      "all": "الكل",
+      "trending": "الرائجة",
+      "recent": "الأخيرة",
+      "personalized": "لك"
+    }
+  },
+  "create": {
+    "title": "إنشاء",
+    "yourPrompt": "مطالبتك",
+    "yourPromptDesc": "أنشئ مطالبة مفصلة مع أوصاف وإرشادات وأفكار إبداعية.",
+    "createYourPrompt": "أنشئ مطالبتك",
+    "aiAssistant": "مساعد الذكاء الاصطناعي",
+    "aiAssistantDesc": "احصل على مساعدة من الذكاء الاصطناعي لإنشاء وتحسين وتحسين مطالباتك للحصول على نتائج أفضل.",
+    "chatWithAI": "الدردشة مع الذكاء الاصطناعي",
+    "smartSuggestions": "اقتراحات ذكية",
+    "smartSuggestionsDesc": "اكتشف المطالبات الرائجة والتوصيات المخصصة والإلهام الإبداعي.",
+    "browseSuggestions": "تصفح الاقتراحات",
+    "proTip": "نصيحة احترافية",
+    "aiCreativityAwaits": "الإبداع المدعوم بالذكاء الاصطناعي في انتظارك",
+    "signInToUnlock": "سجل الدخول لفتح ميزات الذكاء الاصطناعي",
+    "useAIAssistant": "استخدم مساعدنا الذكي واقتراحاتنا الذكية لإنشاء مطالبات أفضل بشكل أسرع.",
+    "loginToAccess": "سجل الدخول للوصول إلى مساعدة الذكاء الاصطناعي والاقتراحات الذكية وإنشاء مطالبات مذهلة."
+  },
+  "favorites": {
+    "title": "المفضلة",
+    "noFavorites": "لا توجد مفضلات بعد",
+    "startExploring": "ابدأ في استكشاف المطالبات وانقر على أيقونة الإشارة المرجعية لحفظ مفضلاتك هنا.",
+    "favoritePrompts_one": " مطالبة مفضلة {{count}}",
+    "favoritePrompts_other": " مطالبات مفضلة {{count}}",
+    "failedToLoad": "فشل تحميل المفضلة",
+    "checkConnection": "يرجى التحقق من اتصالك والمحاولة مرة أخرى."
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "welcome": "أهلاً بك!",
+    "signInToCreate": "سجل الدخول لإنشاء مطالبات، والإعجاب بالمحتوى، والتواصل مع المجتمع.",
+    "yourActivity": "نشاطك",
+    "detailedActivity": "النشاط التفصيلي",
+    "recentPosts": "المشاركات الأخيرة",
+    "viewAllPosts": "عرض كل المشاركات",
+    "showWelcomeAgain": "إظهار رسالة الترحيب مرة أخرى",
+    "onboarding": "الإعداد",
+    "appearance": "المظهر",
+    "language": "اللغة",
+    "dark": "داكن",
+    "light": "فاتح",
+    "loadingStats": "جاري تحميل الإحصائيات...",
+    "loadingDetails": "جاري تحميل التفاصيل...",
+    "signOutConfirm": "هل أنت متأكد من رغبتك في تسجيل الخروج؟",
+    "stats": {
+      "posts": "المشاركات",
+      "likes": "الإعجابات",
+      "shares": "المشاركات",
+      "bookmarksGiven": "الإشارات المرجعية الممنوحة",
+      "commentsMade": "التعليقات المقدمة",
+      "likesGiven": "الإعجابات الممنوحة",
+      "totalEngagement": "إجمالي التفاعل"
+    }
+  },
+  "prompt": {
+    "details": "تفاصيل المطالبة",
+    "comments": "التعليقات",
+    "noComments": "لا توجد تعليقات بعد. كن أول من يشارك أفكاره!",
+    "writeComment": "اكتب تعليقًا...",
+    "posting": "جاري النشر...",
+    "post": "نشر",
+    "reply": "رد",
+    "replyTo": "الرد على {{name}}...",
+    "showReplies_one": "عرض {{count}} رد",
+    "showReplies_other": "عرض {{count}} ردود",
+    "hideReplies": "إخفاء الردود",
+    "viewDetails": "عرض التفاصيل",
+    "bookmarked": "تم الحفظ",
+    "bookmark": "حفظ",
+    "promptNotFound": "لم يتم العثور على المطالبة",
+    "failedToFetch": "فشل جلب المطالبة"
+  },
+  "aiAssistant": {
+    "title": "مساعد الذكاء الاصطناعي",
+    "placeholder": "اسألني أي شيء عن المطالبات...",
+    "thinking": "الذكاء الاصطناعي يفكر...",
+    "createPost": "إنشاء منشور",
+    "welcome": "مرحباً! أنا مساعدك الذكي للمطالبات. يمكنني مساعدتك في:\n\n• إنشاء مطالبات إبداعية\n• تحسين المطالبات الحالية\n• اقتراح مواضيع رائجة\n• التحسين لنماذج الذكاء الاصطناعي المختلفة\n\nماذا تود أن تنشئ اليوم؟",
+    "suggestions": {
+      "fantasy": "إنشاء مطالبة خيالية",
+      "improve": "تحسين مطالبتي الحالية",
+      "trending": "ما هي المواضيع الرائجة في فن الذكاء الاصطناعي؟",
+      "chatgpt": "مساعدة في مطالبات ChatGPT"
+    }
+  },
+  "smartSuggestions": {
+    "title": "اقتراحات ذكية",
+    "loadingSuggestions": "جاري تحميل الاقتراحات...",
+    "useThisPrompt": "استخدم هذه المطالبة",
+    "trending": "رائج",
+    "difficulty": {
+      "beginner": "مبتدئ",
+      "intermediate": "متوسط",
+      "advanced": "متقدم"
+    }
+  },
+  "videoGenerator": {
+    "title": "مولد الفيديو",
+    "description": "حول مطالباتك إلى مقاطع فيديو مخصصة مدعومة بالذكاء الاصطناعي",
+    "script": "نص الفيديو",
+    "scriptDescription": "أدخل النص الذي تريد أن يتحدث به صورتك الرمزية",
+    "chooseAvatar": "اختر صورة رمزية للذكاء الاصطناعي",
+    "avatarDescription": "اختر صورة رمزية للذكاء الاصطناعي ستقدم المحتوى الخاص بك",
+    "videoSettings": "إعدادات الفيديو",
+    "background": "الخلفية",
+    "voiceStability": "استقرار الصوت",
+    "similarityBoost": "تعزيز التشابه",
+    "generateVideo": "إنشاء فيديو",
+    "generatingVideo": "جاري إنشاء الفيديو...",
+    "videoReady": "الفيديو جاهز!",
+    "generationFailed": "فشل الإنشاء",
+    "play": "تشغيل",
+    "download": "تنزيل",
+    "share": "مشاركة",
+    "loadingAvatars": "جاري تحميل الصور الرمزية للذكاء الاصطناعي...",
+    "noAvatars": "لا توجد صور رمزية متاحة",
+    "checkAccount": "يرجى التحقق من حساب Tavus الخاص بك"
+  },
+  "notifications": {
+    "title": "الإشعارات",
+    "noNotifications": "ليس لديك أي إشعارات حتى الآن.",
+    "justNow": "الآن",
+    "minutesAgo": "قبل {{count}} دقيقة",
+    "hoursAgo": "قبل {{count}} ساعة",
+    "daysAgo": "قبل {{count}} يوم"
+  },
+  "postActivity": {
+    "title": "نشاط المنشور",
+    "totalEngagement": "إجمالي التفاعل",
+    "loadingActivity": "جاري تحميل النشاط...",
+    "postNotFound": "لم يتم العثور على المنشور",
+    "ownPostsOnly": "يمكنك فقط عرض النشاط لمنشوراتك الخاصة.",
+    "goBack": "العودة",
+    "tabs": {
+      "likes": "الإعجابات",
+      "comments": "التعليقات",
+      "bookmarks": "الإشارات المرجعية"
+    },
+    "actions": {
+      "liked": "أعجبني",
+      "bookmarked": "تم الحفظ"
+    },
+    "empty": {
+      "likes": "لا توجد إعجابات بعد",
+      "comments": "لا توجد تعليقات بعد",
+      "bookmarks": "لا توجد إشارات مرجعية بعد"
+    }
+  },
+  "welcome": {
+    "title": "مرحباً بك في PromptKaart",
+    "description": "رفيقك الإبداعي لإنشاء مطالبات ذكاء اصطناعي مذهلة. اكتشف وأنشئ وشارك مطالبات تبعث الحياة في أفكارك.",
+    "aiPoweredCreativity": "إبداع مدعوم بالذكاء الاصطناعي",
+    "aiDescription": "الوصول إلى نماذج ذكاء اصطناعي متعددة بما في ذلك ChatGPT و Gemini و Grok. احصل على أفضل النتائج لمشاريعك الإبداعية.",
+    "shareDiscover": "شارك واكتشف",
+    "shareDescription": "انضم إلى مجتمع من المبدعين. شارك مطالباتك، واكتشف الأفكار الرائجة، واستلهم من الآخرين.",
+    "readyToCreate": "هل أنت مستعد للإنشاء؟",
+    "readyDescription": "ابدأ رحلتك الإبداعية اليوم. أنشئ مطالبات مذهلة وحقق خيالك."
+  },
+  "categories": {
+    "artDesign": "الفن والتصميم",
+    "fantasy": "الخيال",
+    "sciFi": "الخيال العلمي",
+    "nature": "الطبيعة",
+    "landscape": "المناظر الطبيعية",
+    "general": "عام"
+  },
+  "aiSources": {
+    "chatgpt": "CHATGPT",
+    "gemini": "GEMINI",
+    "grok": "GROK",
+    "midjourney": "MIDJOURNEY"
+  },
+  "errors": {
+    "somethingWentWrong": "حدث خطأ ما",
+    "tryAgain": "يرجى المحاولة مرة أخرى لاحقًا",
+    "networkError": "خطأ في الشبكة. يرجى التحقق من اتصالك.",
+    "unauthorized": "أنت غير مصرح لك بتنفيذ هذا الإجراء.",
+    "notFound": "لم يتم العثور على المورد المطلوب.",
+    "validationError": "يرجى التحقق من مدخلاتك والمحاولة مرة أخرى."
+  },
+  "language": {
+    "selectLanguage": "اختر اللغة",
+    "currentLanguage": "اللغة الحالية",
+    "changeLanguage": "تغيير اللغة",
+    "languages": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "French",
+        "de": "German",
+        "it": "Italian",
+        "pt": "Portuguese",
+        "ru": "Russian",
+        "ja": "Japanese",
+        "ko": "Korean",
+        "zh": "Chinese",
+        "ar": "Arabic",
+        "hi": "Hindi"
+      }
+  }
+}

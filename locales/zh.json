@@ -1,0 +1,276 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "retry": "重试",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "share": "分享",
+    "copy": "复制",
+    "copied": "已复制！",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一步",
+    "skip": "跳过",
+    "getStarted": "开始",
+    "signIn": "登录",
+    "signUp": "注册",
+    "signOut": "登出",
+    "continueAsGuest": "以访客身份继续"
+  },
+  "navigation": {
+    "home": "首页",
+    "search": "搜索",
+    "create": "创建",
+    "favorites": "收藏",
+    "profile": "个人资料"
+  },
+  "auth": {
+    "welcomeBack": "欢迎回来",
+    "createAccount": "创建账户",
+    "email": "电子邮件地址",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "fullName": "全名",
+    "profilePicture": "个人资料图片",
+    "chooseAvatar": "选择头像",
+    "changeAvatar": "更换头像",
+    "avatarSelected": "已选择头像",
+    "emailRequired": "电子邮件地址是必需的。",
+    "validEmail": "请输入有效的电子邮件地址。",
+    "passwordRequired": "密码是必需的。",
+    "nameRequired": "全名是必需的。",
+    "nameMinLength": "姓名必须至少包含2个字符。",
+    "passwordMinLength": "密码必须至少包含6个字符。",
+    "passwordsMatch": "密码不匹配。",
+    "signingIn": "正在登录...",
+    "creatingAccount": "正在创建账户...",
+    "alreadyHaveAccount": "已经有账户了？",
+    "dontHaveAccount": "没有账户？",
+    "signInRequired": "需要登录",
+    "signInToComment": "请登录以发表评论。",
+    "signInToLike": "请登录以点赞评论。",
+    "signInToReply": "请登录以回复评论。",
+    "signInToBookmark": "请登录以收藏帖子。",
+    "signInToJoin": "登录以加入对话并分享您的想法！"
+  },
+  "home": {
+    "title": "PromptKaart",
+    "noPrompts": "未找到任何提示。成为第一个分享您创造力的人！",
+    "realtimeConnected": "直播"
+  },
+  "search": {
+    "title": "搜索",
+    "placeholder": "搜索提示、类别、标签...",
+    "discoverPrompts": "发现精彩的提示",
+    "searchThousands": "搜索数千个创意AI提示",
+    "noResults": "未找到结果",
+    "trySearchingElse": "尝试搜索其他内容。",
+    "categories": {
+      "all": "全部",
+      "trending": "热门",
+      "recent": "最新",
+      "personalized": "为您推荐"
+    }
+  },
+  "create": {
+    "title": "创建",
+    "yourPrompt": "您的提示",
+    "yourPromptDesc": "创建一个包含描述、说明和创意想法的详细提示。",
+    "createYourPrompt": "创建您的提示",
+    "aiAssistant": "AI助手",
+    "aiAssistantDesc": "从AI获取帮助，以生成、改进和优化您的提示，以获得更好的结果。",
+    "chatWithAI": "与AI聊天",
+    "smartSuggestions": "智能建议",
+    "smartSuggestionsDesc": "发现热门提示、个性化推荐和创意灵感。",
+    "browseSuggestions": "浏览建议",
+    "proTip": "专业提示",
+    "aiCreativityAwaits": "AI驱动的创造力等待着您",
+    "signInToUnlock": "登录以解锁AI功能",
+    "useAIAssistant": "使用我们的AI助手和智能建议，更快地创建更好的提示。",
+    "loginToAccess": "登录以访问AI辅助、智能建议并创建出色的提示。"
+  },
+  "favorites": {
+    "title": "收藏",
+    "noFavorites": "暂无收藏",
+    "startExploring": "开始探索提示，然后点击书签图标将您的收藏保存在此处。",
+    "favoritePrompts_one": "{{count}}个收藏的提示",
+    "favoritePrompts_other": "{{count}}个收藏的提示",
+    "failedToLoad": "加载收藏失败",
+    "checkConnection": "请检查您的网络连接并重试。"
+  },
+  "profile": {
+    "title": "个人资料",
+    "welcome": "欢迎！",
+    "signInToCreate": "登录以创建提示、点赞内容并与社区联系。",
+    "yourActivity": "您的活动",
+    "detailedActivity": "详细活动",
+    "recentPosts": "最近的帖子",
+    "viewAllPosts": "查看所有帖子",
+    "showWelcomeAgain": "再次显示欢迎界面",
+    "onboarding": "入门指南",
+    "appearance": "外观",
+    "language": "语言",
+    "dark": "深色",
+    "light": "浅色",
+    "loadingStats": "正在加载统计数据...",
+    "loadingDetails": "正在加载详细信息...",
+    "signOutConfirm": "您确定要登出吗？",
+    "stats": {
+      "posts": "帖子",
+      "likes": "点赞",
+      "shares": "分享",
+      "bookmarksGiven": "给出的书签",
+      "commentsMade": "发表的评论",
+      "likesGiven": "给出的点赞",
+      "totalEngagement": "总互动"
+    }
+  },
+  "prompt": {
+    "details": "提示详情",
+    "comments": "评论",
+    "noComments": "暂无评论。成为第一个分享您想法的人！",
+    "writeComment": "写下评论...",
+    "posting": "正在发布...",
+    "post": "发布",
+    "reply": "回复",
+    "replyTo": "回复{{name}}...",
+    "showReplies_one": "显示{{count}}条回复",
+    "showReplies_other": "显示{{count}}条回复",
+    "hideReplies": "隐藏回复",
+    "viewDetails": "查看详情",
+    "bookmarked": "已收藏",
+    "bookmark": "收藏",
+    "promptNotFound": "未找到提示",
+    "failedToFetch": "获取提示失败"
+  },
+  "aiAssistant": {
+    "title": "AI助手",
+    "placeholder": "向我询问任何关于提示的问题...",
+    "thinking": "AI正在思考...",
+    "createPost": "创建帖子",
+    "welcome": "嗨！我是您的AI提示助手。我可以帮助您：\n\n• 生成创意提示\n• 改进现有提示\n• 建议热门话题\n• 针对不同的AI模型进行优化\n\n今天您想创建什么？",
+    "suggestions": {
+      "fantasy": "生成一个幻想提示",
+      "improve": "改进我现有的提示",
+      "trending": "AI艺术有什么新趋势？",
+      "chatgpt": "有关ChatGPT提示的帮助"
+    }
+  },
+  "smartSuggestions": {
+    "title": "智能建议",
+    "loadingSuggestions": "正在加载建议...",
+    "useThisPrompt": "使用此提示",
+    "trending": "热门",
+    "difficulty": {
+      "beginner": "初级",
+      "intermediate": "中级",
+      "advanced": "高级"
+    }
+  },
+  "videoGenerator": {
+    "title": "视频生成器",
+    "description": "将您的提示转化为个性化的AI驱动视频",
+    "script": "视频脚本",
+    "scriptDescription": "输入您希望AI化身说出的文本",
+    "chooseAvatar": "选择AI化身",
+    "avatarDescription": "选择一个将呈现您内容的AI化身",
+    "videoSettings": "视频设置",
+    "background": "背景",
+    "voiceStability": "声音稳定性",
+    "similarityBoost": "相似度增强",
+    "generateVideo": "生成视频",
+    "generatingVideo": "正在生成视频...",
+    "videoReady": "视频已准备好！",
+    "generationFailed": "生成失败",
+    "play": "播放",
+    "download": "下载",
+    "share": "分享",
+    "loadingAvatars": "正在加载AI化身...",
+    "noAvatars": "没有可用的化身",
+    "checkAccount": "请检查您的Tavus账户"
+  },
+  "notifications": {
+    "title": "通知",
+    "noNotifications": "您还没有任何通知。",
+    "justNow": "刚才",
+    "minutesAgo": "{{count}}分钟前",
+    "hoursAgo": "{{count}}小时前",
+    "daysAgo": "{{count}}天前"
+  },
+  "postActivity": {
+    "title": "帖子活动",
+    "totalEngagement": "总互动",
+    "loadingActivity": "正在加载活动...",
+    "postNotFound": "未找到帖子",
+    "ownPostsOnly": "您只能查看自己帖子的活动。",
+    "goBack": "返回",
+    "tabs": {
+      "likes": "点赞",
+      "comments": "评论",
+      "bookmarks": "书签"
+    },
+    "actions": {
+      "liked": "已点赞",
+      "bookmarked": "已收藏"
+    },
+    "empty": {
+      "likes": "暂无点赞",
+      "comments": "暂无评论",
+      "bookmarks": "暂无书签"
+    }
+  },
+  "welcome": {
+    "title": "欢迎来到PromptKaart",
+    "description": "您生成出色AI提示的创意伴侣。发现、创建和分享能让您的想法变为现实的提示。",
+    "aiPoweredCreativity": "AI驱动的创造力",
+    "aiDescription": "访问包括ChatGPT、Gemini和Grok在内的多个AI模型。为您的创意项目获取最佳结果。",
+    "shareDiscover": "分享与发现",
+    "shareDescription": "加入创作者社区。分享您的提示，发现热门想法，并从他人那里获得灵感。",
+    "readyToCreate": "准备好创作了吗？",
+    "readyDescription": "今天就开始您的创意之旅。生成令人惊叹的提示，将您的想象力变为现实。"
+  },
+  "categories": {
+    "artDesign": "艺术与设计",
+    "fantasy": "幻想",
+    "sciFi": "科幻",
+    "nature": "自然",
+    "landscape": "风景",
+    "general": "通用"
+  },
+  "aiSources": {
+    "chatgpt": "CHATGPT",
+    "gemini": "GEMINI",
+    "grok": "GROK",
+    "midjourney": "MIDJOURNEY"
+  },
+  "errors": {
+    "somethingWentWrong": "出错了",
+    "tryAgain": "请稍后重试",
+    "networkError": "网络错误。请检查您的连接。",
+    "unauthorized": "您无权执行此操作。",
+    "notFound": "找不到请求的资源。",
+    "validationError": "请检查您的输入并重试。"
+  },
+  "language": {
+    "selectLanguage": "选择语言",
+    "currentLanguage": "当前语言",
+    "changeLanguage": "更改语言",
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "pt": "Portuguese",
+      "ru": "Russian",
+      "ja": "Japanese",
+      "ko": "Korean",
+      "zh": "Chinese",
+      "ar": "Arabic",
+      "hi": "Hindi"
+    }
+  }
+}

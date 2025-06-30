@@ -1,0 +1,276 @@
+{
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "retry": "Riprova",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "share": "Condividi",
+    "copy": "Copia",
+    "copied": "Copiato!",
+    "close": "Chiudi",
+    "back": "Indietro",
+    "next": "Avanti",
+    "skip": "Salta",
+    "getStarted": "Inizia",
+    "signIn": "Accedi",
+    "signUp": "Registrati",
+    "signOut": "Esci",
+    "continueAsGuest": "Continua come ospite"
+  },
+  "navigation": {
+    "home": "Home",
+    "search": "Cerca",
+    "create": "Crea",
+    "favorites": "Preferiti",
+    "profile": "Profilo"
+  },
+  "auth": {
+    "welcomeBack": "Bentornato",
+    "createAccount": "Crea Account",
+    "email": "Indirizzo Email",
+    "password": "Password",
+    "confirmPassword": "Conferma Password",
+    "fullName": "Nome Completo",
+    "profilePicture": "Immagine del Profilo",
+    "chooseAvatar": "Scegli Avatar",
+    "changeAvatar": "Cambia Avatar",
+    "avatarSelected": "Avatar selezionato",
+    "emailRequired": "L'indirizzo email è obbligatorio.",
+    "validEmail": "Inserisci un indirizzo email valido.",
+    "passwordRequired": "La password è obbligatoria.",
+    "nameRequired": "Il nome completo è obbligatorio.",
+    "nameMinLength": "Il nome deve contenere almeno 2 caratteri.",
+    "passwordMinLength": "La password deve contenere almeno 6 caratteri.",
+    "passwordsMatch": "Le password non coincidono.",
+    "signingIn": "Accesso in corso...",
+    "creatingAccount": "Creazione account in corso...",
+    "alreadyHaveAccount": "Hai già un account?",
+    "dontHaveAccount": "Non hai un account?",
+    "signInRequired": "Accesso Richiesto",
+    "signInToComment": "Effettua l'accesso per pubblicare un commento.",
+    "signInToLike": "Effettua l'accesso per mettere 'mi piace' ai commenti.",
+    "signInToReply": "Effettua l'accesso per rispondere ai commenti.",
+    "signInToBookmark": "Effettua l'accesso per salvare i post.",
+    "signInToJoin": "Accedi per unirti alla conversazione e condividere i tuoi pensieri!"
+  },
+  "home": {
+    "title": "PromptKaart",
+    "noPrompts": "Nessun prompt trovato. Sii il primo a condividere la tua creatività!",
+    "realtimeConnected": "In diretta"
+  },
+  "search": {
+    "title": "Cerca",
+    "placeholder": "Cerca prompt, categorie, tag...",
+    "discoverPrompts": "Scopri Prompt Incredibili",
+    "searchThousands": "Cerca tra migliaia di prompt creativi di IA",
+    "noResults": "Nessun Risultato Trovato",
+    "trySearchingElse": "Prova a cercare qualcos'altro.",
+    "categories": {
+      "all": "Tutti",
+      "trending": "Di Tendenza",
+      "recent": "Recenti",
+      "personalized": "Per Te"
+    }
+  },
+  "create": {
+    "title": "Crea",
+    "yourPrompt": "Il Tuo Prompt",
+    "yourPromptDesc": "Crea un prompt dettagliato con descrizioni, istruzioni e idee creative.",
+    "createYourPrompt": "Crea il Tuo Prompt",
+    "aiAssistant": "Assistente IA",
+    "aiAssistantDesc": "Ottieni aiuto dall'IA per generare, migliorare e ottimizzare i tuoi prompt per risultati migliori.",
+    "chatWithAI": "Chatta con l'IA",
+    "smartSuggestions": "Suggerimenti Intelligenti",
+    "smartSuggestionsDesc": "Scopri prompt di tendenza, raccomandazioni personalizzate e ispirazione creativa.",
+    "browseSuggestions": "Sfoglia i Suggerimenti",
+    "proTip": "Consiglio Pro",
+    "aiCreativityAwaits": "La creatività potenziata dall'IA ti aspetta",
+    "signInToUnlock": "Accedi per sbloccare le funzionalità IA",
+    "useAIAssistant": "Usa il nostro assistente IA e i suggerimenti intelligenti per creare prompt migliori più velocemente.",
+    "loginToAccess": "Accedi per accedere all'assistenza IA, ai suggerimenti intelligenti e creare prompt fantastici."
+  },
+  "favorites": {
+    "title": "Preferiti",
+    "noFavorites": "Nessun preferito ancora",
+    "startExploring": "Inizia a esplorare i prompt e tocca l'icona del segnalibro per salvare i tuoi preferiti qui.",
+    "favoritePrompts_one": "{{count}} prompt preferito",
+    "favoritePrompts_other": "{{count}} prompt preferiti",
+    "failedToLoad": "Caricamento dei preferiti non riuscito",
+    "checkConnection": "Controlla la tua connessione e riprova."
+  },
+  "profile": {
+    "title": "Profilo",
+    "welcome": "Benvenuto!",
+    "signInToCreate": "Accedi per creare prompt, mettere 'mi piace' ai contenuti e connetterti con la community.",
+    "yourActivity": "La Tua Attività",
+    "detailedActivity": "Attività Dettagliata",
+    "recentPosts": "Post Recenti",
+    "viewAllPosts": "Visualizza Tutti i Post",
+    "showWelcomeAgain": "Mostra di Nuovo il Benvenuto",
+    "onboarding": "Introduzione",
+    "appearance": "Aspetto",
+    "language": "Lingua",
+    "dark": "Scuro",
+    "light": "Chiaro",
+    "loadingStats": "Caricamento statistiche...",
+    "loadingDetails": "Caricamento dettagli...",
+    "signOutConfirm": "Sei sicuro di voler uscire?",
+    "stats": {
+      "posts": "Post",
+      "likes": "Mi Piace",
+      "shares": "Condivisioni",
+      "bookmarksGiven": "Segnalibri Aggiunti",
+      "commentsMade": "Commenti Fatti",
+      "likesGiven": "Mi Piace Dati",
+      "totalEngagement": "Coinvolgimento Totale"
+    }
+  },
+  "prompt": {
+    "details": "Dettagli del Prompt",
+    "comments": "Commenti",
+    "noComments": "Nessun commento ancora. Sii il primo a condividere i tuoi pensieri!",
+    "writeComment": "Scrivi un commento...",
+    "posting": "Pubblicazione...",
+    "post": "Pubblica",
+    "reply": "Rispondi",
+    "replyTo": "Rispondi a {{name}}...",
+    "showReplies_one": "Mostra {{count}} risposta",
+    "showReplies_other": "Mostra {{count}} risposte",
+    "hideReplies": "Nascondi risposte",
+    "viewDetails": "Visualizza Dettagli",
+    "bookmarked": "Salvato",
+    "bookmark": "Salva",
+    "promptNotFound": "Prompt non trovato",
+    "failedToFetch": "Recupero del prompt non riuscito"
+  },
+  "aiAssistant": {
+    "title": "Assistente IA",
+    "placeholder": "Chiedimi qualsiasi cosa sui prompt...",
+    "thinking": "L'IA sta pensando...",
+    "createPost": "Crea Post",
+    "welcome": "Ciao! Sono il tuo assistente IA per i prompt. Posso aiutarti a:\n\n• Generare prompt creativi\n• Migliorare prompt esistenti\n• Suggerire argomenti di tendenza\n• Ottimizzare per diversi modelli di IA\n\nCosa vorresti creare oggi?",
+    "suggestions": {
+      "fantasy": "Genera un prompt fantasy",
+      "improve": "Migliora il mio prompt esistente",
+      "trending": "Quali sono le tendenze nell'arte IA?",
+      "chatgpt": "Aiuto con i prompt di ChatGPT"
+    }
+  },
+  "smartSuggestions": {
+    "title": "Suggerimenti Intelligenti",
+    "loadingSuggestions": "Caricamento suggerimenti...",
+    "useThisPrompt": "Usa Questo Prompt",
+    "trending": "DI TENDENZA",
+    "difficulty": {
+      "beginner": "PRINCIPIANTE",
+      "intermediate": "INTERMEDIO",
+      "advanced": "AVANZATO"
+    }
+  },
+  "videoGenerator": {
+    "title": "Generatore di Video",
+    "description": "Trasforma i tuoi prompt in video personalizzati potenziati dall'IA",
+    "script": "Script Video",
+    "scriptDescription": "Inserisci il testo che vuoi che il tuo avatar IA dica",
+    "chooseAvatar": "Scegli Avatar IA",
+    "avatarDescription": "Seleziona un avatar IA che presenterà i tuoi contenuti",
+    "videoSettings": "Impostazioni Video",
+    "background": "Sfondo",
+    "voiceStability": "Stabilità della Voce",
+    "similarityBoost": "Aumento della Somiglianza",
+    "generateVideo": "Genera Video",
+    "generatingVideo": "Generazione video in corso...",
+    "videoReady": "Video Pronto!",
+    "generationFailed": "Generazione Fallita",
+    "play": "Riproduci",
+    "download": "Scarica",
+    "share": "Condividi",
+    "loadingAvatars": "Caricamento avatar IA...",
+    "noAvatars": "Nessun avatar disponibile",
+    "checkAccount": "Controlla il tuo account Tavus"
+  },
+  "notifications": {
+    "title": "Notifiche",
+    "noNotifications": "Non hai ancora nessuna notifica.",
+    "justNow": "Poco fa",
+    "minutesAgo": "{{count}}m fa",
+    "hoursAgo": "{{count}}h fa",
+    "daysAgo": "{{count}}g fa"
+  },
+  "postActivity": {
+    "title": "Attività del Post",
+    "totalEngagement": "Coinvolgimento Totale",
+    "loadingActivity": "Caricamento attività...",
+    "postNotFound": "Post non trovato",
+    "ownPostsOnly": "Puoi visualizzare solo l'attività dei tuoi post.",
+    "goBack": "Torna Indietro",
+    "tabs": {
+      "likes": "Mi Piace",
+      "comments": "Commenti",
+      "bookmarks": "Segnalibri"
+    },
+    "actions": {
+      "liked": "Piaciuto",
+      "bookmarked": "Salvato"
+    },
+    "empty": {
+      "likes": "Ancora nessun 'mi piace'",
+      "comments": "Ancora nessun commento",
+      "bookmarks": "Ancora nessun segnalibro"
+    }
+  },
+  "welcome": {
+    "title": "Benvenuto su PromptKaart",
+    "description": "Il tuo compagno creativo per generare fantastici prompt di IA. Scopri, crea e condividi prompt che danno vita alle tue idee.",
+    "aiPoweredCreativity": "Creatività Potenziata dall'IA",
+    "aiDescription": "Accedi a più modelli di IA tra cui ChatGPT, Gemini e Grok. Ottieni i migliori risultati per i tuoi progetti creativi.",
+    "shareDiscover": "Condividi e Scopri",
+    "shareDescription": "Unisciti a una comunità di creatori. Condividi i tuoi prompt, scopri idee di tendenza e lasciati ispirare dagli altri.",
+    "readyToCreate": "Pronto a Creare?",
+    "readyDescription": "Inizia oggi il tuo viaggio creativo. Genera prompt straordinari e dai vita alla tua immaginazione."
+  },
+  "categories": {
+    "artDesign": "Arte e Design",
+    "fantasy": "Fantasy",
+    "sciFi": "Fantascienza",
+    "nature": "Natura",
+    "landscape": "Paesaggio",
+    "general": "Generale"
+  },
+  "aiSources": {
+    "chatgpt": "CHATGPT",
+    "gemini": "GEMINI",
+    "grok": "GROK",
+    "midjourney": "MIDJOURNEY"
+  },
+  "errors": {
+    "somethingWentWrong": "Qualcosa è andato storto",
+    "tryAgain": "Riprova più tardi",
+    "networkError": "Errore di rete. Controlla la tua connessione.",
+    "unauthorized": "Non sei autorizzato a eseguire questa azione.",
+    "notFound": "La risorsa richiesta non è stata trovata.",
+    "validationError": "Controlla i dati inseriti e riprova."
+  },
+  "language": {
+    "selectLanguage": "Seleziona Lingua",
+    "currentLanguage": "Lingua Attuale",
+    "changeLanguage": "Cambia Lingua",
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "pt": "Portuguese",
+      "ru": "Russian",
+      "ja": "Japanese",
+      "ko": "Korean",
+      "zh": "Chinese",
+      "ar": "Arabic",
+      "hi": "Hindi"
+    }
+  }
+}

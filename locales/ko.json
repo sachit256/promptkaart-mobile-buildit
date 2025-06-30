@@ -1,0 +1,276 @@
+{
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류",
+    "retry": "재시도",
+    "cancel": "취소",
+    "save": "저장",
+    "delete": "삭제",
+    "edit": "편집",
+    "share": "공유",
+    "copy": "복사",
+    "copied": "복사되었습니다!",
+    "close": "닫기",
+    "back": "뒤로",
+    "next": "다음",
+    "skip": "건너뛰기",
+    "getStarted": "시작하기",
+    "signIn": "로그인",
+    "signUp": "가입하기",
+    "signOut": "로그아웃",
+    "continueAsGuest": "게스트로 계속하기"
+  },
+  "navigation": {
+    "home": "홈",
+    "search": "검색",
+    "create": "만들기",
+    "favorites": "즐겨찾기",
+    "profile": "프로필"
+  },
+  "auth": {
+    "welcomeBack": "다시 오신 것을 환영합니다",
+    "createAccount": "계정 만들기",
+    "email": "이메일 주소",
+    "password": "비밀번호",
+    "confirmPassword": "비밀번호 확인",
+    "fullName": "전체 이름",
+    "profilePicture": "프로필 사진",
+    "chooseAvatar": "아바타 선택",
+    "changeAvatar": "아바타 변경",
+    "avatarSelected": "아바타가 선택되었습니다",
+    "emailRequired": "이메일 주소는 필수입니다.",
+    "validEmail": "유효한 이메일 주소를 입력하세요.",
+    "passwordRequired": "비밀번호는 필수입니다.",
+    "nameRequired": "전체 이름은 필수입니다.",
+    "nameMinLength": "이름은 2자 이상이어야 합니다.",
+    "passwordMinLength": "비밀번호는 6자 이상이어야 합니다.",
+    "passwordsMatch": "비밀번호가 일치하지 않습니다.",
+    "signingIn": "로그인 중...",
+    "creatingAccount": "계정 생성 중...",
+    "alreadyHaveAccount": "이미 계정이 있으신가요?",
+    "dontHaveAccount": "계정이 없으신가요?",
+    "signInRequired": "로그인 필요",
+    "signInToComment": "댓글을 작성하려면 로그인하세요.",
+    "signInToLike": "댓글에 '좋아요'를 누르려면 로그인하세요.",
+    "signInToReply": "댓글에 답장하려면 로그인하세요.",
+    "signInToBookmark": "게시물을 북마크하려면 로그인하세요.",
+    "signInToJoin": "대화에 참여하고 의견을 공유하려면 로그인하세요!"
+  },
+  "home": {
+    "title": "PromptKaart",
+    "noPrompts": "프롬프트를 찾을 수 없습니다. 창의력을 가장 먼저 공유해보세요!",
+    "realtimeConnected": "실시간"
+  },
+  "search": {
+    "title": "검색",
+    "placeholder": "프롬프트, 카테고리, 태그 검색...",
+    "discoverPrompts": "놀라운 프롬프트 발견",
+    "searchThousands": "수천 개의 창의적인 AI 프롬프트 검색",
+    "noResults": "결과 없음",
+    "trySearchingElse": "다른 검색어로 검색해보세요.",
+    "categories": {
+      "all": "전체",
+      "trending": "인기",
+      "recent": "최신",
+      "personalized": "맞춤"
+    }
+  },
+  "create": {
+    "title": "만들기",
+    "yourPrompt": "나의 프롬프트",
+    "yourPromptDesc": "설명, 지침, 창의적인 아이디어를 포함한 상세한 프롬프트를 만드세요.",
+    "createYourPrompt": "프롬프트 만들기",
+    "aiAssistant": "AI 어시스턴트",
+    "aiAssistantDesc": "AI의 도움을 받아 더 나은 결과를 위해 프롬프트를 생성, 개선, 최적화하세요.",
+    "chatWithAI": "AI와 채팅하기",
+    "smartSuggestions": "스마트 제안",
+    "smartSuggestionsDesc": "인기 있는 프롬프트, 개인화된 추천, 창의적인 영감을 발견하세요.",
+    "browseSuggestions": "제안 둘러보기",
+    "proTip": "전문가 팁",
+    "aiCreativityAwaits": "AI 기반 창의력이 기다립니다",
+    "signInToUnlock": "로그인하여 AI 기능 잠금 해제",
+    "useAIAssistant": "AI 어시스턴트와 스마트 제안을 사용하여 더 나은 프롬프트를 더 빨리 만드세요.",
+    "loginToAccess": "로그인하여 AI 지원, 스마트 제안에 액세스하고 놀라운 프롬프트를 만드세요."
+  },
+  "favorites": {
+    "title": "즐겨찾기",
+    "noFavorites": "아직 즐겨찾기가 없습니다",
+    "startExploring": "프롬프트를 탐색하고 북마크 아이콘을 탭하여 즐겨찾기를 여기에 저장하세요.",
+    "favoritePrompts_one": "{{count}}개의 즐겨찾는 프롬프트",
+    "favoritePrompts_other": "{{count}}개의 즐겨찾는 프롬프트",
+    "failedToLoad": "즐겨찾기를 불러오지 못했습니다",
+    "checkConnection": "연결을 확인하고 다시 시도하세요."
+  },
+  "profile": {
+    "title": "프로필",
+    "welcome": "환영합니다!",
+    "signInToCreate": "로그인하여 프롬프트를 만들고, 콘텐츠에 '좋아요'를 누르고, 커뮤니티와 소통하세요.",
+    "yourActivity": "나의 활동",
+    "detailedActivity": "상세 활동",
+    "recentPosts": "최근 게시물",
+    "viewAllPosts": "모든 게시물 보기",
+    "showWelcomeAgain": "환영 메시지 다시 보기",
+    "onboarding": "온보딩",
+    "appearance": "화면",
+    "language": "언어",
+    "dark": "다크",
+    "light": "라이트",
+    "loadingStats": "통계 로딩 중...",
+    "loadingDetails": "세부 정보 로딩 중...",
+    "signOutConfirm": "정말 로그아웃하시겠습니까?",
+    "stats": {
+      "posts": "게시물",
+      "likes": "좋아요",
+      "shares": "공유",
+      "bookmarksGiven": "북마크한 수",
+      "commentsMade": "작성한 댓글",
+      "likesGiven": "누른 좋아요",
+      "totalEngagement": "총 참여"
+    }
+  },
+  "prompt": {
+    "details": "프롬프트 세부 정보",
+    "comments": "댓글",
+    "noComments": "아직 댓글이 없습니다. 가장 먼저 의견을 공유해보세요!",
+    "writeComment": "댓글 작성...",
+    "posting": "게시 중...",
+    "post": "게시",
+    "reply": "답장",
+    "replyTo": "{{name}}에게 답장...",
+    "showReplies_one": "{{count}}개의 답장 보기",
+    "showReplies_other": "{{count}}개의 답장 보기",
+    "hideReplies": "답장 숨기기",
+    "viewDetails": "세부 정보 보기",
+    "bookmarked": "북마크됨",
+    "bookmark": "북마크",
+    "promptNotFound": "프롬프트를 찾을 수 없습니다",
+    "failedToFetch": "프롬프트를 가져오지 못했습니다"
+  },
+  "aiAssistant": {
+    "title": "AI 어시스턴트",
+    "placeholder": "프롬프트에 대해 무엇이든 물어보세요...",
+    "thinking": "AI가 생각 중입니다...",
+    "createPost": "게시물 만들기",
+    "welcome": "안녕하세요! 저는 당신의 AI 프롬프트 어시스턴트입니다. 다음을 도와드릴 수 있습니다:\n\n• 창의적인 프롬프트 생성\n• 기존 프롬프트 개선\n• 인기 있는 주제 제안\n• 다양한 AI 모델에 최적화\n\n오늘은 무엇을 만들고 싶으신가요?",
+    "suggestions": {
+      "fantasy": "판타지 프롬프트 생성",
+      "improve": "기존 프롬프트 개선하기",
+      "trending": "AI 아트 트렌드는?",
+      "chatgpt": "ChatGPT 프롬프트 도움말"
+    }
+  },
+  "smartSuggestions": {
+    "title": "스마트 제안",
+    "loadingSuggestions": "제안 로딩 중...",
+    "useThisPrompt": "이 프롬프트 사용하기",
+    "trending": "인기",
+    "difficulty": {
+      "beginner": "초급",
+      "intermediate": "중급",
+      "advanced": "고급"
+    }
+  },
+  "videoGenerator": {
+    "title": "비디오 생성기",
+    "description": "프롬프트를 개인화된 AI 기반 비디오로 변환하세요",
+    "script": "비디오 스크립트",
+    "scriptDescription": "AI 아바타가 말할 텍스트를 입력하세요",
+    "chooseAvatar": "AI 아바타 선택",
+    "avatarDescription": "콘텐츠를 발표할 AI 아바타를 선택하세요",
+    "videoSettings": "비디오 설정",
+    "background": "배경",
+    "voiceStability": "음성 안정성",
+    "similarityBoost": "유사성 향상",
+    "generateVideo": "비디오 생성",
+    "generatingVideo": "비디오 생성 중...",
+    "videoReady": "비디오 준비 완료!",
+    "generationFailed": "생성 실패",
+    "play": "재생",
+    "download": "다운로드",
+    "share": "공유",
+    "loadingAvatars": "AI 아바타 로딩 중...",
+    "noAvatars": "사용 가능한 아바타가 없습니다",
+    "checkAccount": "Tavus 계정을 확인하세요"
+  },
+  "notifications": {
+    "title": "알림",
+    "noNotifications": "아직 알림이 없습니다.",
+    "justNow": "방금 전",
+    "minutesAgo": "{{count}}분 전",
+    "hoursAgo": "{{count}}시간 전",
+    "daysAgo": "{{count}}일 전"
+  },
+  "postActivity": {
+    "title": "게시물 활동",
+    "totalEngagement": "총 참여",
+    "loadingActivity": "활동 로딩 중...",
+    "postNotFound": "게시물을 찾을 수 없습니다",
+    "ownPostsOnly": "자신의 게시물 활동만 볼 수 있습니다.",
+    "goBack": "뒤로 가기",
+    "tabs": {
+      "likes": "좋아요",
+      "comments": "댓글",
+      "bookmarks": "북마크"
+    },
+    "actions": {
+      "liked": "좋아요를 눌렀습니다",
+      "bookmarked": "북마크했습니다"
+    },
+    "empty": {
+      "likes": "아직 '좋아요'가 없습니다",
+      "comments": "아직 댓글이 없습니다",
+      "bookmarks": "아직 북마크가 없습니다"
+    }
+  },
+  "welcome": {
+    "title": "PromptKaart에 오신 것을 환영합니다",
+    "description": "놀라운 AI 프롬프트를 생성하기 위한 창의적인 동반자입니다. 아이디어를 현실로 만드는 프롬프트를 발견하고, 만들고, 공유하세요.",
+    "aiPoweredCreativity": "AI 기반 창의력",
+    "aiDescription": "ChatGPT, Gemini, Grok 등 여러 AI 모델에 액세스하세요. 창의적인 프로젝트에 최상의 결과를 얻으세요.",
+    "shareDiscover": "공유 및 발견",
+    "shareDescription": "크리에이터 커뮤니티에 참여하세요. 프롬프트를 공유하고, 인기 있는 아이디어를 발견하고, 다른 사람들에게서 영감을 받으세요.",
+    "readyToCreate": "만들 준비가 되셨나요?",
+    "readyDescription": "오늘 창의적인 여정을 시작하세요. 멋진 프롬프트를 생성하고 상상력을 현실로 만드세요."
+  },
+  "categories": {
+    "artDesign": "예술 및 디자인",
+    "fantasy": "판타지",
+    "sciFi": "공상 과학",
+    "nature": "자연",
+    "landscape": "풍경",
+    "general": "일반"
+  },
+  "aiSources": {
+    "chatgpt": "CHATGPT",
+    "gemini": "GEMINI",
+    "grok": "GROK",
+    "midjourney": "MIDJOURNEY"
+  },
+  "errors": {
+    "somethingWentWrong": "문제가 발생했습니다",
+    "tryAgain": "나중에 다시 시도해 주세요",
+    "networkError": "네트워크 오류. 연결을 확인하세요.",
+    "unauthorized": "이 작업을 수행할 권한이 없습니다.",
+    "notFound": "요청한 리소스를 찾을 수 없습니다.",
+    "validationError": "입력 내용을 확인하고 다시 시도하세요."
+  },
+  "language": {
+    "selectLanguage": "언어 선택",
+    "currentLanguage": "현재 언어",
+    "changeLanguage": "언어 변경",
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "pt": "Portuguese",
+      "ru": "Russian",
+      "ja": "Japanese",
+      "ko": "Korean",
+      "zh": "Chinese",
+      "ar": "Arabic",
+      "hi": "Hindi"
+    }
+  }
+}

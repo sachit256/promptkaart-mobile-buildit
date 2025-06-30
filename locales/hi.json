@@ -1,0 +1,271 @@
+{
+  "common": {
+    "loading": "लोड हो रहा है ...",
+    "error": "गलती",
+    "retry": "पुन: प्रयास करें",
+    "cancel": "रद्द करना",
+    "save": "बचाना",
+    "delete": "मिटाना",
+    "edit": "संपादन करना",
+    "share": "शेयर करना",
+    "copy": "प्रतिलिपि",
+    "copied": "कॉपी!",
+    "close": "बंद करना",
+    "back": "पीछे",
+    "next": "अगला",
+    "skip": "छोडना",
+    "getStarted": "शुरू हो जाओ",
+    "signIn": "दाखिल करना",
+    "signUp": "साइन अप करें",
+    "signOut": "साइन आउट",
+    "continueAsGuest": "अतिथि के रूप में जारी रखें"
+  },
+  "navigation": {
+    "home": "घर",
+    "search": "खोज",
+    "create": "बनाएं",
+    "favorites": "पसंदीदा",
+    "profile": "प्रोफ़ाइल"
+  },
+  "auth": {
+    "welcomeBack": "वापसी पर स्वागत है",
+    "createAccount": "खाता बनाएं",
+    "email": "मेल पता",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि कीजिये",
+    "fullName": "पूरा नाम",
+    "profilePicture": "प्रोफ़ाइल फोटो",
+    "chooseAvatar": "अवतार चुनें",
+    "changeAvatar": "परिवर्तन अवतार",
+    "avatarSelected": "अवतार चयनित",
+    "emailRequired": "ईमेल पते की ज़रुरत है।",
+    "validEmail": "कृपया एक मान्य ईमेल पता प्रविष्ट करें।",
+    "passwordRequired": "पासवर्ड की आवश्यकता है।",
+    "nameRequired": "पूरा नाम आवश्यक है।",
+    "nameMinLength": "नाम कम से कम 2 अक्षर होना चाहिए।",
+    "passwordMinLength": "पासवर्ड कम से कम 6 अंकों का होना चाहिए।",
+    "passwordsMatch": "सांकेतिक शब्द मेल नहीं खाते।",
+    "signingIn": "इन कर रहे हैं...",
+    "creatingAccount": "खाता बनाना ...",
+    "alreadyHaveAccount": "क्या आपके पास पहले से एक खाता मौजूद है?",
+    "dontHaveAccount": "कोई खाता नहीं है?",
+    "signInRequired": "साइन इन आवश्यक",
+    "signInToComment": "कोई टिप्पणी पोस्ट करने के लिए कृपया साइन इन करें।",
+    "signInToLike": "कृपया टिप्पणियों को पसंद करने के लिए साइन इन करें।",
+    "signInToReply": "कृपया टिप्पणियों का जवाब देने के लिए साइन इन करें।",
+    "signInToBookmark": "कृपया बुकमार्क पोस्ट पर साइन इन करें।",
+    "signInToJoin": "बातचीत में शामिल होने और अपने विचारों को साझा करने के लिए साइन इन करें!"
+  },
+  "home": {
+    "title": "प्रॉम्प्टकार्ट",
+    "noPrompts": "कोई संकेत नहीं मिला। ",
+    "realtimeConnected": "रहना"
+  },
+  "search": {
+    "title": "खोज",
+    "placeholder": "खोज संकेत, श्रेणियां, टैग ...",
+    "discoverPrompts": "अद्भुत संकेतों की खोज करें",
+    "searchThousands": "हजारों रचनात्मक एआई संकेतों के माध्यम से खोजें",
+    "noResults": "कोई परिणाम नहीं मिला",
+    "trySearchingElse": "कुछ और खोजने की कोशिश करें।",
+    "categories": {
+      "all": "सभी",
+      "trending": "रुझान",
+      "recent": "हाल ही का",
+      "personalized": "आपके लिए"
+    }
+  },
+  "create": {
+    "title": "बनाएं",
+    "yourPrompt": "आपका संकेत",
+    "yourPromptDesc": "विवरण, निर्देश और रचनात्मक विचारों के साथ एक विस्तृत संकेत बनाएं।",
+    "createYourPrompt": "अपना प्रॉम्प्ट बनाएं",
+    "aiAssistant": "एआई सहायक",
+    "aiAssistantDesc": "बेहतर परिणामों के लिए अपने संकेतों को उत्पन्न करने, सुधारने और अनुकूलित करने के लिए एआई से सहायता प्राप्त करें।",
+    "chatWithAI": "एआई के साथ चैट करें",
+    "smartSuggestions": "स्मार्ट सुझाव",
+    "smartSuggestionsDesc": "ट्रेंडिंग संकेत, व्यक्तिगत सिफारिशें और रचनात्मक प्रेरणा की खोज करें।",
+    "browseSuggestions": "सुझाव ब्राउज़ करें",
+    "proTip": "प्रो टिप",
+    "aiCreativityAwaits": "एआई-संचालित रचनात्मकता का इंतजार है",
+    "signInToUnlock": "एआई सुविधाओं को अनलॉक करने के लिए साइन इन करें",
+    "useAIAssistant": "बेहतर संकेत बनाने के लिए हमारे एआई सहायक और स्मार्ट सुझावों का उपयोग करें।",
+    "loginToAccess": "AI सहायता, स्मार्ट सुझावों तक पहुंचने के लिए लॉगिन करें, और अद्भुत संकेत बनाएं।"
+  },
+  "favorites": {
+    "title": "पसंदीदा",
+    "noFavorites": "अभी तक कोई पसंदीदा नहीं",
+    "startExploring": "अपने पसंदीदा को बचाने के लिए प्रॉम्प्ट की खोज शुरू करें और बुकमार्क आइकन पर टैप करें।",
+    "favoritePrompts": "{{count}} पसंदीदा त्वरित",
+    "favoritePrompts_plural": "{{count}} पसंदीदा संकेत",
+    "failedToLoad": "पसंदीदा लोड करने में विफल",
+    "checkConnection": "अपने कनेक्शन की जांच करें और पुन: प्रयास करें।"
+  },
+  "profile": {
+    "title": "प्रोफ़ाइल",
+    "welcome": "स्वागत!",
+    "signInToCreate": "सामग्री की तरह, और समुदाय के साथ जुड़ने के लिए संकेत बनाने के लिए साइन इन करें।",
+    "yourActivity": "आपकी गतिविधि",
+    "detailedActivity": "विस्तृत गतिविधि",
+    "recentPosts": "हाल के पोस्ट",
+    "viewAllPosts": "सभी पोस्ट देखें",
+    "showWelcomeAgain": "फिर से स्वागत करें",
+    "onboarding": "ज्ञानप्राप्ति",
+    "appearance": "उपस्थिति",
+    "language": "भाषा",
+    "dark": "अँधेरा",
+    "light": "रोशनी",
+    "loadingStats": "लोडिंग आँकड़े ...",
+    "loadingDetails": "लोडिंग विवरण ...",
+    "signOutConfirm": "क्या आप द्वारा साइन आउट किया जाना सुनिश्चित है?",
+    "stats": {
+      "posts": "पदों",
+      "likes": "पसंद है",
+      "shares": "शेयरों",
+      "bookmarksGiven": "बुकमार्क दिए गए",
+      "commentsMade": "टिप्पणियाँ बनाई गई",
+      "likesGiven": "पसंद किया",
+      "totalEngagement": "कुल जुड़ाव"
+    }
+  },
+  "prompt": {
+    "details": "त्वरित विवरण",
+    "comments": "सूचना",
+    "noComments": "अब तक कोई टिप्पणी नहीं। ",
+    "writeComment": "एक टिप्पणी लिखें...",
+    "posting": "पोस्टिंग ...",
+    "post": "डाक",
+    "reply": "जवाब",
+    "replyTo": "को उत्तर {{name}}...",
+    "showReplies": "दिखाओ {{count}} जवाब",
+    "showReply": "दिखाओ {{count}} जवाब",
+    "hideReplies": "जवाब छिपाएं",
+    "viewDetails": "विवरण देखें",
+    "bookmarked": "बुकमार्क",
+    "bookmark": "बुकमार्क",
+    "promptNotFound": "शीघ्र नहीं मिला",
+    "failedToFetch": "प्रॉम्प्ट लाने में विफल रहा"
+  },
+  "aiAssistant": {
+    "title": "एआई सहायक",
+    "placeholder": "मुझे संकेतों के बारे में कुछ भी पूछें ...",
+    "thinking": "ऐ सोच रहा है ...",
+    "createPost": "पोस्ट बनाएँ",
+    "welcome": "नमस्ते! ",
+    "suggestions": {
+      "fantasy": "एक काल्पनिक संकेत उत्पन्न करें",
+      "improve": "मेरे मौजूदा प्रॉम्प्ट में सुधार करें",
+      "trending": "एआई कला में क्या ट्रेंडिंग है?",
+      "chatgpt": "CHATGPT के साथ मदद करें"
+    }
+  },
+  "smartSuggestions": {
+    "title": "स्मार्ट सुझाव",
+    "loadingSuggestions": "लोडिंग सुझाव ...",
+    "useThisPrompt": "इस संकेत का उपयोग करें",
+    "trending": "ट्रेंडिंग"
+  },
+  "videoGenerator": {
+    "title": "वीडियो जनरेटर",
+    "description": "अपने संकेतों को व्यक्तिगत एआई-संचालित वीडियो में बदल दें",
+    "script": "वीडियो स्क्रिप्ट",
+    "scriptDescription": "वह पाठ दर्ज करें जिसे आप चाहते हैं कि आपका AI अवतार बोलें",
+    "chooseAvatar": "ऐ अवतार चुनें",
+    "avatarDescription": "एक एआई अवतार का चयन करें जो आपकी सामग्री प्रस्तुत करेगा",
+    "videoSettings": "वीडियो सेटिंग्स",
+    "background": "पृष्ठभूमि",
+    "voiceStability": "आवाज स्थिरता",
+    "similarityBoost": "समानता में वृद्धि",
+    "generateVideo": "वीडियो उत्पन्न करें",
+    "generatingVideo": "वीडियो उत्पन्न करना ...",
+    "videoReady": "वीडियो तैयार!",
+    "generationFailed": "पीढ़ी विफल हो गई",
+    "play": "खेल",
+    "download": "डाउनलोड करना",
+    "share": "शेयर करना",
+    "loadingAvatars": "लोडिंग एआई अवतार ...",
+    "noAvatars": "कोई अवतार उपलब्ध नहीं है",
+    "checkAccount": "कृपया अपना टावस अकाउंट देखें"
+  },
+  "notifications": {
+    "title": "अधिसूचना",
+    "noNotifications": "आपके पास अभी तक कोई सूचना नहीं है।",
+    "justNow": "बस अब ",
+    "minutesAgo": "{{count}}एम से पहले",
+    "hoursAgo": "{{count}}एच से पहले",
+    "daysAgo": "{{count}}डी से पहले"
+  },
+  "postActivity": {
+    "title": "डाक गतिविधि",
+    "totalEngagement": "कुल जुड़ाव",
+    "loadingActivity": "लोडिंग गतिविधि ...",
+    "postNotFound": "पोस्ट नहीं मिला",
+    "ownPostsOnly": "आप केवल अपनी पोस्ट के लिए गतिविधि देख सकते हैं।",
+    "goBack": "वापस जाना",
+    "tabs": {
+      "likes": "पसंद है",
+      "comments": "सूचना",
+      "bookmarks": "बुकमार्क"
+    },
+    "actions": {
+      "liked": "पसंद किया",
+      "bookmarked": "बुकमार्क"
+    },
+    "empty": {
+      "likes": "अभी तक कोई पसंद नहीं है",
+      "comments": "अब तक कोई टिप्पणी नहीं",
+      "bookmarks": "अभी तक कोई बुकमार्क नहीं"
+    }
+  },
+  "welcome": {
+    "title": "प्रॉम्प्टकार्ट में आपका स्वागत है",
+    "description": "अद्भुत एआई संकेत देने के लिए आपका रचनात्मक साथी। ",
+    "aiPoweredCreativity": "एआई संचालित रचनात्मकता",
+    "aiDescription": "CHATGPT, GEMINI और GROK सहित कई AI मॉडल का उपयोग करें। ",
+    "shareDiscover": "शेयर और खोज",
+    "shareDescription": "रचनाकारों के एक समुदाय में शामिल हों। ",
+    "readyToCreate": "बनाने के लिए तैयार हैं?",
+    "readyDescription": "आज अपनी रचनात्मक यात्रा शुरू करें। "
+  },
+  "categories": {
+    "artDesign": "कला डिजाइन",
+    "fantasy": "कल्पना",
+    "sciFi": "विज्ञान-कथा",
+    "nature": "प्रकृति",
+    "landscape": "परिदृश्य",
+    "general": "सामान्य"
+  },
+  "aiSources": {
+    "chatgpt": "चटपट",
+    "gemini": "मिथुन",
+    "grok": "घिसना",
+    "midjourney": "मिडजोरनी"
+  },
+  "errors": {
+    "somethingWentWrong": "कुछ गलत हो गया",
+    "tryAgain": "कृपया बाद में पुन: प्रयास करें",
+    "networkError": "नेटवर्क त्रुटि। ",
+    "unauthorized": "आप इस कार्रवाई को करने के लिए अधिकृत नहीं हैं।",
+    "notFound": "अनुरोधित संसाधन नहीं मिला।",
+    "validationError": "कृपया अपना इनपुट देखें और पुनः प्रयास करें।"
+  },
+  "language": {
+    "selectLanguage": "भाषा चुने",
+    "currentLanguage": "वर्तमान भाषा",
+    "changeLanguage": "भाषा बदलें",
+    "languages": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "French",
+        "de": "German",
+        "it": "Italian",
+        "pt": "Portuguese",
+        "ru": "Russian",
+        "ja": "Japanese",
+        "ko": "Korean",
+        "zh": "Chinese",
+        "ar": "Arabic",
+        "hi": "Hindi"
+      }
+  }
+}

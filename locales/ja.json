@@ -1,0 +1,276 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "retry": "再試行",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集",
+    "share": "共有",
+    "copy": "コピー",
+    "copied": "コピーしました！",
+    "close": "閉じる",
+    "back": "戻る",
+    "next": "次へ",
+    "skip": "スキップ",
+    "getStarted": "始める",
+    "signIn": "サインイン",
+    "signUp": "サインアップ",
+    "signOut": "サインアウト",
+    "continueAsGuest": "ゲストとして続行"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "search": "検索",
+    "create": "作成",
+    "favorites": "お気に入り",
+    "profile": "プロフィール"
+  },
+  "auth": {
+    "welcomeBack": "おかえりなさい",
+    "createAccount": "アカウント作成",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "confirmPassword": "パスワードの確認",
+    "fullName": "フルネーム",
+    "profilePicture": "プロフィール写真",
+    "chooseAvatar": "アバターを選択",
+    "changeAvatar": "アバターを変更",
+    "avatarSelected": "アバターが選択されました",
+    "emailRequired": "メールアドレスは必須です。",
+    "validEmail": "有効なメールアドレスを入力してください。",
+    "passwordRequired": "パスワードは必須です。",
+    "nameRequired": "フルネームは必須です。",
+    "nameMinLength": "名前は2文字以上である必要があります。",
+    "passwordMinLength": "パスワードは6文字以上である必要があります。",
+    "passwordsMatch": "パスワードが一致しません。",
+    "signingIn": "サインイン中...",
+    "creatingAccount": "アカウント作成中...",
+    "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+    "dontHaveAccount": "アカウントをお持ちではありませんか？",
+    "signInRequired": "サインインが必要です",
+    "signInToComment": "コメントを投稿するにはサインインしてください。",
+    "signInToLike": "コメントに「いいね！」するにはサインインしてください。",
+    "signInToReply": "コメントに返信するにはサインインしてください。",
+    "signInToBookmark": "投稿をブックマークするにはサインインしてください。",
+    "signInToJoin": "会話に参加してあなたの考えを共有するにはサインインしてください！"
+  },
+  "home": {
+    "title": "PromptKaart",
+    "noPrompts": "プロンプトが見つかりません。最初にあなたの創造性を共有しましょう！",
+    "realtimeConnected": "ライブ"
+  },
+  "search": {
+    "title": "検索",
+    "placeholder": "プロンプト、カテゴリ、タグを検索...",
+    "discoverPrompts": "素晴らしいプロンプトを発見",
+    "searchThousands": "何千もの創造的なAIプロンプトを検索",
+    "noResults": "結果が見つかりません",
+    "trySearchingElse": "何か他のものを検索してみてください。",
+    "categories": {
+      "all": "すべて",
+      "trending": "トレンド",
+      "recent": "最近",
+      "personalized": "あなたへのおすすめ"
+    }
+  },
+  "create": {
+    "title": "作成",
+    "yourPrompt": "あなたのプロンプト",
+    "yourPromptDesc": "説明、指示、創造的なアイデアを含む詳細なプロンプトを作成します。",
+    "createYourPrompt": "あなたのプロンプトを作成",
+    "aiAssistant": "AIアシスタント",
+    "aiAssistantDesc": "AIの助けを借りて、より良い結果を得るためにプロンプトを生成、改善、最適化します。",
+    "chatWithAI": "AIとチャット",
+    "smartSuggestions": "スマートな提案",
+    "smartSuggestionsDesc": "トレンドのプロンプト、パーソナライズされた推奨事項、創造的なインスピレーションを発見します。",
+    "browseSuggestions": "提案を閲覧",
+    "proTip": "プロのヒント",
+    "aiCreativityAwaits": "AIによる創造性が待っています",
+    "signInToUnlock": "サインインしてAI機能のロックを解除",
+    "useAIAssistant": "AIアシスタントとスマートな提案を使用して、より良いプロンプトをより速く作成します。",
+    "loginToAccess": "ログインしてAI支援、スマートな提案にアクセスし、素晴らしいプロンプトを作成します。"
+  },
+  "favorites": {
+    "title": "お気に入り",
+    "noFavorites": "まだお気に入りはありません",
+    "startExploring": "プロンプトの探索を開始し、ブックマークアイコンをタップしてお気に入りをここに保存します。",
+    "favoritePrompts_one": "{{count}}件のお気に入りプロンプト",
+    "favoritePrompts_other": "{{count}}件のお気に入りプロンプト",
+    "failedToLoad": "お気に入りの読み込みに失敗しました",
+    "checkConnection": "接続を確認して再試行してください。"
+  },
+  "profile": {
+    "title": "プロフィール",
+    "welcome": "ようこそ！",
+    "signInToCreate": "サインインしてプロンプトを作成し、コンテンツに「いいね！」をして、コミュニティとつながりましょう。",
+    "yourActivity": "あなたのアクティビティ",
+    "detailedActivity": "詳細なアクティビティ",
+    "recentPosts": "最近の投稿",
+    "viewAllPosts": "すべての投稿を表示",
+    "showWelcomeAgain": "ようこそ画面を再表示",
+    "onboarding": "オンボーディング",
+    "appearance": "外観",
+    "language": "言語",
+    "dark": "ダーク",
+    "light": "ライト",
+    "loadingStats": "統計を読み込み中...",
+    "loadingDetails": "詳細を読み込み中...",
+    "signOutConfirm": "本当にサインアウトしますか？",
+    "stats": {
+      "posts": "投稿",
+      "likes": "いいね",
+      "shares": "共有",
+      "bookmarksGiven": "ブックマークした数",
+      "commentsMade": "コメントした数",
+      "likesGiven": "「いいね！」した数",
+      "totalEngagement": "総エンゲージメント"
+    }
+  },
+  "prompt": {
+    "details": "プロンプトの詳細",
+    "comments": "コメント",
+    "noComments": "まだコメントはありません。最初にあなたの考えを共有しましょう！",
+    "writeComment": "コメントを書く...",
+    "posting": "投稿中...",
+    "post": "投稿",
+    "reply": "返信",
+    "replyTo": "{{name}}に返信...",
+    "showReplies_one": "{{count}}件の返信を表示",
+    "showReplies_other": "{{count}}件の返信を表示",
+    "hideReplies": "返信を非表示",
+    "viewDetails": "詳細を表示",
+    "bookmarked": "ブックマーク済み",
+    "bookmark": "ブックマーク",
+    "promptNotFound": "プロンプトが見つかりません",
+    "failedToFetch": "プロンプトの取得に失敗しました"
+  },
+  "aiAssistant": {
+    "title": "AIアシスタント",
+    "placeholder": "プロンプトについて何でも聞いてください...",
+    "thinking": "AIが考えています...",
+    "createPost": "投稿を作成",
+    "welcome": "こんにちは！私はあなたのAIプロンプトアシスタントです。お手伝いできること：\n\n• 創造的なプロンプトの生成\n• 既存のプロンプトの改善\n• トレンドのトピックの提案\n• さまざまなAIモデルの最適化\n\n今日は何を作成しますか？",
+    "suggestions": {
+      "fantasy": "ファンタジープロンプトを生成",
+      "improve": "既存のプロンプトを改善",
+      "trending": "AIアートのトレンドは？",
+      "chatgpt": "ChatGPTプロンプトのヘルプ"
+    }
+  },
+  "smartSuggestions": {
+    "title": "スマートな提案",
+    "loadingSuggestions": "提案を読み込み中...",
+    "useThisPrompt": "このプロンプトを使用",
+    "trending": "トレンド",
+    "difficulty": {
+      "beginner": "初心者",
+      "intermediate": "中級者",
+      "advanced": "上級者"
+    }
+  },
+  "videoGenerator": {
+    "title": "ビデオジェネレーター",
+    "description": "プロンプトをパーソナライズされたAI搭載ビデオに変換します",
+    "script": "ビデオスクリプト",
+    "scriptDescription": "AIアバターに話させたいテキストを入力してください",
+    "chooseAvatar": "AIアバターを選択",
+    "avatarDescription": "コンテンツを提示するAIアバターを選択してください",
+    "videoSettings": "ビデオ設定",
+    "background": "背景",
+    "voiceStability": "音声の安定性",
+    "similarityBoost": "類似性ブースト",
+    "generateVideo": "ビデオを生成",
+    "generatingVideo": "ビデオを生成中...",
+    "videoReady": "ビデオの準備ができました！",
+    "generationFailed": "生成に失敗しました",
+    "play": "再生",
+    "download": "ダウンロード",
+    "share": "共有",
+    "loadingAvatars": "AIアバターを読み込み中...",
+    "noAvatars": "利用可能なアバターはありません",
+    "checkAccount": "Tavusアカウントを確認してください"
+  },
+  "notifications": {
+    "title": "通知",
+    "noNotifications": "まだ通知はありません。",
+    "justNow": "たった今",
+    "minutesAgo": "{{count}}分前",
+    "hoursAgo": "{{count}}時間前",
+    "daysAgo": "{{count}}日前"
+  },
+  "postActivity": {
+    "title": "投稿アクティビティ",
+    "totalEngagement": "総エンゲージメント",
+    "loadingActivity": "アクティビティを読み込み中...",
+    "postNotFound": "投稿が見つかりません",
+    "ownPostsOnly": "自分の投稿のアクティビティのみ表示できます。",
+    "goBack": "戻る",
+    "tabs": {
+      "likes": "いいね",
+      "comments": "コメント",
+      "bookmarks": "ブックマーク"
+    },
+    "actions": {
+      "liked": "いいね！しました",
+      "bookmarked": "ブックマークしました"
+    },
+    "empty": {
+      "likes": "まだ「いいね！」はありません",
+      "comments": "まだコメントはありません",
+      "bookmarks": "まだブックマークはありません"
+    }
+  },
+  "welcome": {
+    "title": "PromptKaartへようこそ",
+    "description": "素晴らしいAIプロンプトを生成するためのあなたの創造的な仲間。アイデアを実現するプロンプトを発見、作成、共有しましょう。",
+    "aiPoweredCreativity": "AIによる創造性",
+    "aiDescription": "ChatGPT、Gemini、Grokなど、複数のAIモデルにアクセスできます。創造的なプロジェクトに最適な結果を得ましょう。",
+    "shareDiscover": "共有と発見",
+    "shareDescription": "クリエイターのコミュニティに参加しましょう。プロンプトを共有し、トレンドのアイデアを発見し、他の人からインスピレーションを得ましょう。",
+    "readyToCreate": "作成する準備はできましたか？",
+    "readyDescription": "今日から創造的な旅を始めましょう。素晴らしいプロンプトを生成し、想像力を現実にしましょう。"
+  },
+  "categories": {
+    "artDesign": "アート＆デザイン",
+    "fantasy": "ファンタジー",
+    "sciFi": "SF",
+    "nature": "自然",
+    "landscape": "風景",
+    "general": "一般"
+  },
+  "aiSources": {
+    "chatgpt": "CHATGPT",
+    "gemini": "GEMINI",
+    "grok": "GROK",
+    "midjourney": "MIDJOURNEY"
+  },
+  "errors": {
+    "somethingWentWrong": "問題が発生しました",
+    "tryAgain": "後でもう一度お試しください",
+    "networkError": "ネットワークエラー。接続を確認してください。",
+    "unauthorized": "この操作を実行する権限がありません。",
+    "notFound": "要求されたリソースが見つかりませんでした。",
+    "validationError": "入力を確認して再試行してください。"
+  },
+  "language": {
+    "selectLanguage": "言語を選択",
+    "currentLanguage": "現在の言語",
+    "changeLanguage": "言語を変更",
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "pt": "Portuguese",
+      "ru": "Russian",
+      "ja": "Japanese",
+      "ko": "Korean",
+      "zh": "Chinese",
+      "ar": "Arabic",
+      "hi": "Hindi"
+    }
+  }
+}
